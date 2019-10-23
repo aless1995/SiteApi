@@ -1,0 +1,21 @@
+{
+  "name": "amerapi",
+  "version": "1.0.0",
+  "description": "amer api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/aless1995/SiteApi"
+  },
+  "author": "alessio",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "mssql": "^5.1.0"
+  }
+}
